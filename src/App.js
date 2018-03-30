@@ -12,6 +12,3 @@ class App extends Component {
 }
 
 export default App;
-
-class Awesome extends Component(props,context,updater);
-
